@@ -1,0 +1,223 @@
+* {
+
+}
+
+body {
+
+background: #2d2d2d;
+
+font-family: 'Segoe UI';
+}
+
+.box {
+
+width: 50%;
+
+margin: auto;
+
+background: #fff;
+
+border-radius: 0.2em;
+
+padding: 1em;
+
+margin-top: 3em;
+
+min-width: 1000px;
+}
+
+.box .titulo {
+
+font-weight: bold;
+
+font-size: 0.7em;
+
+margin-bottom: 1em;
+}
+
+.box .corpo {
+
+width: 1000px;
+
+height: 1000px;
+
+background: url('https://i.imgur.com/D61n1VU.png');
+
+background-size: 100%;
+
+background-repeat: no-repeat;
+
+margin: auto;
+
+margin-top: 1em;
+
+background-position: center;
+
+position: relative;
+}
+
+.box #gerar {
+
+width: 100%;
+
+margin-top: 1em;
+
+padding: 0.5em;
+
+background: #4caf50;
+
+text-transform: uppercase;
+
+font-weight: bold;
+
+color: #fff;
+
+border: 1px solid #367139;
+
+border-radius: 0.2em;
+
+cursor: pointer;
+}
+
+.corpo .policial1 {
+
+width: 192px;
+
+height: 330px;
+
+background: url('https://www.habbo.com.br/habbo-imaging/avatarimage?&user=WictorP2&action=std&direction=2&head_direction=2&img_format=png&gesture=sml&headonly=0&size=l');
+
+position: absolute;
+
+top: 103px;
+
+left: 399px;
+
+background-size: 100%;
+}
+
+.corpo .policial2 {
+
+width: 192px;
+
+height: 330px;
+
+background: url(https://www.habbo.com.br/habbo-imaging/avatarimage?&user=WictorP2&action=std&direction=2&head_direction=2&img_format=png&gesture=sml&headonly=0&size=l);
+
+position: absolute;
+
+top: 207px;
+
+left: 271px;
+
+background-size: 100%;
+}
+
+.corpo .policial3 {
+
+width: 192px;
+
+height: 330px;
+
+background: url(https://www.habbo.com.br/habbo-imaging/avatarimage?&user=WictorP2&action=std&direction=4&head_direction=4&img_format=png&gesture=sml&headonly=0&size=l);
+
+position: absolute;
+
+top: 246px;
+
+left: 538px;
+
+background-size: 100%;
+}
+
+.corpo .titulo2 {
+
+color: #fff;
+
+position: absolute;
+
+bottom: 267px;
+
+left: 273px;
+
+width: 464px;
+
+height: 39px;
+
+padding: 0px 10px;
+
+box-sizing: border-box;
+
+text-align: center;
+
+text-shadow: 2px 2px 1px #000000a3;
+
+font-size: 28.69pt;
+
+font-weight: bold;
+
+font-family: "Volter (Goldfish)";
+}
+
+.corpo .nome1 {
+
+color: #fff;
+
+position: absolute;
+
+bottom: 179px;
+
+width: 100%;
+
+text-align: center;
+
+font-size: 32.69pt;
+
+font-weight: bold;
+
+font-family: "Volter (Goldfish)";
+
+text-shadow: 3px 3px 1px #000;
+}
+
+.corpo .nome2 {
+
+color: #fff;
+
+position: absolute;
+
+bottom: 114px;
+
+width: 100%;
+
+text-align: center;
+
+font-size: 32.69pt;
+
+font-weight: bold;
+
+font-family: "Volter (Goldfish)";
+
+text-shadow: 3px 3px 1px #000;
+}
+
+.corpo .nome3 {
+
+color: #fff;
+
+position: absolute;
+
+bottom: 49px;
+
+width: 100%;
+
+text-align: center;
+
+font-size: 32.69pt;
+
+font-weight: bold;
+
+font-family: "Volter (Goldfish)";
+
+text-shadow: 3px 3px 1px #000;
+}

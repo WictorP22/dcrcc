@@ -146,6 +146,10 @@ background-size: 100%;
 }
 
 .corpo .badge {
+      background-size: 120px;
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-position-x: 24px;
 }
 
 .corpo .titulo2 {
